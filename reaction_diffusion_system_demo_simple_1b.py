@@ -49,7 +49,7 @@ trajectory.convert_to_xyz(particle_radii={'A': 1.})
 
 #In [8]:
 #!vmd -e out.xyz.tcl
-#!vmd -e out.xyz.tcl
+#should be:     !vmd -e out.h5.xyz.tcl
 """
 import h5py
 
