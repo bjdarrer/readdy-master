@@ -1,5 +1,5 @@
 #First attempt at Model G using "Simple example" BJD 9.2.2022 ==========================
-#16.2.2022 ##############
+#16.2.2022 ###################
 import readdy
 
 #Step 1: Set up a reaction diffusion system
