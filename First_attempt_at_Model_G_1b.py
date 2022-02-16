@@ -1,13 +1,4 @@
 #First attempt at Model G using "Simple example" BJD 9.2.2022 ==========================
-"""
-Hi David can you see this?
-
-Yes, can we write simultaneously on different places in the file?
-
-It won't let me type in the chat. I can hear though.
-
-I can read it but it won't let type in the chat
-"""
 
 import readdy
 
